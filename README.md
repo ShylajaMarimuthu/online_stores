@@ -15,7 +15,7 @@ This project analyzes customer purchasing behavior from an online retail dataset
 - Converted `InvoiceDate` to datetime format.
 - Created `TotalAmount = Quantity × UnitPrice`.
 
-## eature Engineering
+## Feature Engineering
 
 - Aggregated metrics at the customer level:
   - **NumPurchases**: Unique invoices
